@@ -40,7 +40,7 @@ The project is split into two main components:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/neuralblades/hawkvision2.0.git
 cd hawk-vision
 ```
 
